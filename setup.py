@@ -11,7 +11,7 @@ with open('README.rst') as f:
 
 setup(
     name='awsrequests',
-    version='0.0.11',
+    version='0.0.11+dtr.1',
     packages=['awsrequests'],
     url='https://github.com/djcrabhat/aws-requests',
     license='MIT License',
